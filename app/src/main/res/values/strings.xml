@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_chocolate">There are chips in a chocolate chip cookie.</string>
+    <string name="question_oatmeal">There is oatmeal in an oatmeal and raisin cookie.</string>
+    <string name="question_cheesecake">There is cheese in a  cheesecake.</string>
+    <string name="question_apple_pie">There are peaches in a apple pie.</string>
+</resources>
